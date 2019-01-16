@@ -5,3 +5,5 @@ objectel is Event-Driven Reactive Programming library in order to build efficien
 ## examples
 
 ## packages
+
+* [@objectel/objectel](https://github.com/ENvironmentSet/objectel/tree/master/packages/objectel): objectel core library
